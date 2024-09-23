@@ -1,14 +1,14 @@
 <?php 
 
-$websiteTitle = "AniKatsu"; // Website Name
+$websiteTitle = "AniXer"; // Website Name
 $websiteUrl = "//{$_SERVER['SERVER_NAME']}";  // Website URL
 $websiteLogo = $websiteUrl . "/files/images/logo.png?v=2"; // Logo
-$contactEmail = "xyz@gmail.com"; // Contact Email
+$contactEmail = "anixer42@gmail.com"; // Contact Email
 
 $version = "0.3";
 
 //Donate 
-$donate = "#";
+$donate = "/file/images/GCash-MyQR.png";
 
 // Socials 
 $telegram = "https://t.me/#"; // telegram
