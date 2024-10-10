@@ -8,7 +8,7 @@ $contactEmail = "anixer42@gmail.com"; // Contact Email
 $version = "0.3";
 
 //Donate 
-$donate = $websiteUrl . "/files/images/GCash-MyQR.png"; // Donate 
+$donate = $websiteUrl . "/files/images/GCash_MyQR_1.jpg"; // Donate 
 
 // Socials 
 $telegram = "https://t.me/#"; // telegram
