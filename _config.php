@@ -8,7 +8,7 @@ $contactEmail = "anixer42@gmail.com"; // Contact Email
 $version = "0.3";
 
 //Donate 
-$donate = $websiteUrl . "/file/images/GCash-MyQR.png"; // Donate 
+$donate = $websiteUrl . "/files/images/GCash-MyQR.png"; // Donate 
 
 // Socials 
 $telegram = "https://t.me/#"; // telegram
@@ -22,7 +22,7 @@ $disqus = "https://indianime.disqus.com"; // Disqus
 
 
 // API URL
-$api = "https://tulh-theta.vercel.app"; // https://github.com/shashankktiwariii/anikatsu-api
+$api = "https://anixer1-api.vercel.app"; // https://github.com/shashankktiwariii/anikatsu-api
 
 
 $banner = $websiteUrl . "/files/images/banner.png";  //Banner
