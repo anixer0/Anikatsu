@@ -22,7 +22,7 @@ xen sama welcome 🤗
 
 
   <p align="center">
-    Demo <a href="https://anikatsu.000.pe">https://anikatsu.free.nf</a> <br>
+    Demo <a href="https://anikatsu.000.pe">https://anikatsu.000.pe</a> <br>
     This is a PHP application used for browsing, searching and watching anime . The application is built on top of GogoAnimeAPI (<a href="https://github.com/AnikatsuAnime/Anikatsu-api-2024.git">API REPO</a>)
   </p>
 </p>
